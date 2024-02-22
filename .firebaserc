@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sizzling-heat-796": {
+      "hosting": {
+        "ng172-test": [
+          "sizzling-heat-796"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sizzling-heat-796"
+  }
+}
